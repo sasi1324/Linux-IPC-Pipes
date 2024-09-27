@@ -133,7 +133,6 @@ exit(EXIT_SUCCESS);
 ```
 
 
-
 ## OUTPUT
 ![Screenshot 2024-04-08 050259](https://github.com/Tanushreea05/Linux-IPC-Pipes/assets/138849166/d04c4cb3-024a-4ac9-be35-3ff151afc370)
 
